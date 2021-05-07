@@ -18,4 +18,4 @@ If you want to know more, please, join my Discord server, I´m so looking forwar
 I'm no expert, if you see even the smallest flaw, be confident and create a new issue, so that we all know what to improve. 
 
 
-PS: The name of the project(and therefore the name of operating system) will change in the future, it's just a temporary name. 
+PS: The name of the project(and therefore the name of operating system) will change in the future, it's just a temporary name. By the way, I use CLion as my IDE for C and C++ programming, that's  why the .idea folder in the source files. Please try to be as consistent as possible so that we all can run the project with no issues accross as many systems as possible, as of may 2021 I'll be doing most of the job on this project on Linux, take that into account after you have cloned the repo. I'll what a CONTRIBUTING file later for more details. 
