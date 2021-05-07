@@ -1,6 +1,6 @@
 # vivallo-OS
 
-## What's this?
+## What's this? 🧐
 
 This project is meant to be a full operating system intended to run on the x86_64 architecture. If you came across this project just by coincidence and you have experience 
 working on low-level systems, embedded systems and related stuff, feel free to contribute and to contact me via Discord. 
@@ -13,7 +13,7 @@ I'll be honored if you reach me out, and guide throught this proccess, I hope I 
 In the future, I may do some Devlog on YouTube so that we can reach out some new people and create a good community accross this project. 
 If you want to know more, please, join my Discord server, I´m so looking forward to colaborating with you :) 
 
-## What's next? 
+## What's next? 🤔
 - First of all we have to create a bootloader, I'll use the Assembly language in order to get something up and running, remember, I'm a student and by any means
 I'm no expert, if you see even the smallest flaw, be confident an create a new issue, so that we all know what to improve. 
 
