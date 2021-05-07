@@ -12,3 +12,10 @@ I'll be honored if you reach me out, and guide throught this proccess, I hope I 
 
 In the future, I may do some Devlog on YouTube so that we can reach out some new people and create a good community accross this project. 
 If you want to know more, please, join my Discord server, I´m so looking forward to colaborating with you :) 
+
+## What's next? 
+- First of all we have to create a bootloader, I'll use the Assembly language in order to get something up and running, remember, I'm a student and by any means
+I'm no expert, if you see even the smallest flaw, be confident an create a new issue, so that we all know what to improve. 
+
+
+PS: The name of the project(and therefore the operating system) will change in the future, it's just a temporary name. 
