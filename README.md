@@ -2,7 +2,7 @@
 
 ## What's this? 🧐
 
-This project is meant to be a full operating system intended to run on the x86_64 architecture. If you came across this project just by coincidence and you have experience 
+This project is meant to be a full 64bit operating system. If you came across this project just by coincidence and you have experience 
 working on low-level systems, embedded systems, and related stuff, feel free to contribute and to contact me via Discord. 
 
 The project is not intended to be finished in a short period of time, I'm currently a Computer Engineering student and I don't know everything, part of this
