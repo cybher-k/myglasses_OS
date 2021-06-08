@@ -1,4 +1,4 @@
-# vivallo-OS
+# lambda-OS
 
 ## What's this? 🧐
 
